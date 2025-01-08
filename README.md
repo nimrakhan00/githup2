@@ -7,14 +7,16 @@ this repository is for class exercise for setting up localspace
 # commands git clone "repository link"
 
 
+**********************
 make some changes
-
+*************************
 git status
-
+********************
 git add .
-
+**************************
 git status
-
+******************************
 git commit -m "commit message"
-
+******************************
 git push
+****************************
